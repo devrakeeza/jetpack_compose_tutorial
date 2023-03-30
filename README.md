@@ -23,7 +23,7 @@ To follow along with this tutorial, you will need:
 - Familiarity with Git and GitHub
 
 
-## Getting Started
+## Getting Started 💫
 
 ```bash
 git clone https://github.com/nzdeveloper009/jetpack_compose_tutorial
@@ -32,6 +32,9 @@ git clone https://github.com/nzdeveloper009/jetpack_compose_tutorial
 
 Then, open the project in Android Studio and follow along with the tutorial series
 
+## Official Documentation 📃
+
+Link: -> [Documentation](https://developer.android.com/jetpack/compose)
 
 ## Contributing
 
